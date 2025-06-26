@@ -49,9 +49,9 @@ Since the original dataset had no timestamp, a simulated `CallDate` was added fo
 #### ➤ Add Custom Column
 - Go to `Add Column → Custom Column`
 - Name it `CallDate` and use the following formula:
+powerquery
+# datetime(2024, 1, 1, 0, 0, 0) + #duration(Number.Mod([Index], 365), 0, 0, 0) '''
 
-```powerquery
-# datetime(2024, 1, 1, 0, 0, 0) + #duration(Number.Mod([Index], 365), 0, 0, 0)
 
 #### ➤ Format the Column
 - Change the CallDate column’s type to Date
