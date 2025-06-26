@@ -61,4 +61,4 @@ Since the original dataset had no timestamp, a simulated `CallDate` was added fo
 
 #### ➤ Click Close & Apply to save changes
 
-## For more information about these steps refer to the pdf in repository named : Data Preparation.docx
+## For more information about these steps refer to the pdf in repository named : Data Preparation.pdf
