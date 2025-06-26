@@ -60,3 +60,5 @@ Since the original dataset had no timestamp, a simulated `CallDate` was added fo
 - Right-click the index column → Remove
 
 #### ➤ Click Close & Apply to save changes
+
+## For more information about these steps refer to the pdf in repository named : Data Preparation.docx
