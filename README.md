@@ -137,18 +137,16 @@ AVERAGE('Product_Sales (2)'[Duration]) / 60
 
 | File                                  | Description                          |
 |---------------------------------------|--------------------------------------|
-| Product_Sales_InteractiveDashboard.pbix | Power BI dashboard file              |
+| Task 3 Dashboard Design.pbix          | Power BI dashboard file              |
 | Product_Sales_Dashboard_Summary.pptx   | PowerPoint summary with insights     |
-| `Product_Sales (2).csv`                  | Final enhanced dataset with CallDate |
+| Product_Sales (2).csv                  | Final enhanced dataset with CallDate |
 
 ---
 
 ## 🧑‍💼 Author
 
-Created by [Your Name]  
-[LinkedIn] | [Email] | [GitHub]
+Created by CHITRARTH VASDEV 
 
----
 
 
 
