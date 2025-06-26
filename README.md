@@ -61,7 +61,7 @@ Since the original dataset had no timestamp, a simulated `CallDate` was added fo
 
 #### ➤ Click Close & Apply to save changes
 
-## For more information about these steps refer to the pdf in repository named : Data Preparation.pdf
+## NOTE => For more information about these steps refer to the pdf in repository named : Data Preparation.pdf
 
 ## AFTER APPLYING THESE STEPS THE REVISED DATASET OVERVIEW :
 
@@ -141,7 +141,7 @@ AVERAGE('Product_Sales (2)'[Duration]) / 60
 | Product_Sales_Dashboard_Summary.pptx   | PowerPoint summary with insights     |
 | Product_Sales (2).csv                  | Final enhanced dataset with CallDate |
 
----
+## NOTE => IF THE .pbix file does not open refer to the TASK 3 Interactive Dashboard.pdf FILE IN REPOSITORY 
 
 ## 🧑‍💼 Author
 
