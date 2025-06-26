@@ -56,7 +56,7 @@ Since the original dataset had no timestamp, a simulated `CallDate` was added fo
 #### ➤ Format the Column
 - Change the CallDate column’s type to Date
 
-#### ➤ Remove Index Column (optional)
+#### ➤ Remove Index Column 
 - Right-click the index column → Remove
 
 #### ➤ Click Close & Apply to save changes
